@@ -51,4 +51,7 @@ public class GreetingControllerTests {
                 .andExpect(jsonPath("$.content").value("Hello, Spring Community!"));
     }
 
+
+    // changes made to this file
+
 }
